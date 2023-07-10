@@ -3,6 +3,8 @@ import torch
 from torchvision.transforms import ToTensor
 from PIL import Image
 
+torch.__version__
+
 # 假设模型返回10个类别的预测结果
 num_classes = 10
 

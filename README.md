@@ -12,7 +12,9 @@
 
 1. 克隆项目到本地：git clone https://github.com/UNSW-COMP9444-DDDD/DDDD.git
 2. 进入项目目录：cd DDDD
-3. 安装所需依赖：pip install -r requirements.txt (稍后上传)
+3. 安装pytorch
+4. 安装所需依赖：pip install -r requirements.txt
+
 ## 启动项目
 
 在ui目录下执行以下命令启动Streamlit应用程序：
