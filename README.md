@@ -10,7 +10,7 @@
 
 ## 安装
 
-1. 克隆项目到本地：git clone https://github.com/your_username/your_project.git
+1. 克隆项目到本地：git clone https://github.com/UNSW-COMP9444-DDDD/DDDD.git
 2. 进入项目目录：cd DDDD
 3. 安装所需依赖：pip install -r requirements.txt (稍后上传)
 ## 启动项目
